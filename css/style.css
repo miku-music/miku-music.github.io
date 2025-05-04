@@ -87,7 +87,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(/Users/momoimiku/Desktop/WCBCafe/images/main-bg.jpg);
+    background-image: url(../images/main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
